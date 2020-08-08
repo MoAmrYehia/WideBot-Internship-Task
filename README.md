@@ -1,1 +1,1 @@
-# WideBot_Internship_Task
+# WideBot Internship
