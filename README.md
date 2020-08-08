@@ -22,9 +22,15 @@ cd/ Task 1
 python getting-to-philosphy.py 
 ```
 
+### Output
+![Getting to Philosophy](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/0.png)
+
 ## Task 2 - Binary Classification Problem
 
-I created a web scraper script using python to test the phenomenon that clicking the first link in the main text of a Wikipedia article, and then repeating the process for subsequent articles, will usually lead to the 'Philosophy' article. This script simply checks a random Wikipedia article, follows the first real link, and lists the chain of articles. It's where I got the chains from the above description. If it doesn't find the Philosophy article in 25 links or if it determines a loop it will aborts.
+Given the training and validation datasets, I created and trained a machine learning model using the training set that performs well on the validation set. I found it a good chance to play around with [PyCaret](https://pycaret.org/) for testing and exploration 
+
+### PyCaret
+PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment.
 
 ### Prerequisites
 
