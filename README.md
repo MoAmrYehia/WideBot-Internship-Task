@@ -1,5 +1,5 @@
 # WideBot Internship
-In this repo I worked on solving two tasks for [WideBot Internship](https://widebot.net/). I was applaying for a Data Engineer Internship and those taskes were designed to evaluate my data engineering skills.
+In this repo I worked on solving two tasks for [WideBot Internship](https://widebot.net/). I was applying for a Data Engineer Internship and those tasks were designed to evaluate my data engineering skills.
 
 ## Task 1 - Getting to Philosophy
 
