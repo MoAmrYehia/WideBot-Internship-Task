@@ -42,3 +42,8 @@ conda activate yourenvname
 pip install pycaret==2.0
 python -m ipykernel install --user --name yourenvname --display-name "display-name"
 ```
+### Plosts
+![AUC](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/1.png)
+![precision-recall](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/2.png)
+![Feature](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/3.png)
+![confugin metrics](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/4.png)
