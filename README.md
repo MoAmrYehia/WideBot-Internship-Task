@@ -64,15 +64,15 @@ Using PyCaret I implemented some steps of ML pipeline as following:
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/1.png"
-        width = "300" 
-        height= "300">
+        width = "400" 
+        height= "400">
     <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/2.png"
-        width = "300" 
-        height= "300">
+        width = "400" 
+        height= "400">
       <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/3.png"
-        width = "300" 
-        height= "300">
+        width = "400" 
+        height= "400">
       <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/4.png"
-        width = "300" 
-        height= "300">
+        width = "400" 
+        height= "400">
 </p>
