@@ -9,7 +9,7 @@ I created a web scraper script using python to test the phenomenon that clicking
 
 What things you need to install the software and how to install them
 
-```
+```python
 pip install urllib3
 pip install bs4
 pip install requests
@@ -17,8 +17,8 @@ pip install requests
 
 ### Running the tests
 
-```
-cd/ Task 1 
+```Shell
+cd Task 1 
 python getting-to-philosphy.py 
 ```
 
@@ -41,7 +41,7 @@ PyCaret is an open source, low-code machine learning library in Python that allo
 
 What things you need to install the software and how to install them
 
-```
+```python
 conda create --name yourenvname python=3.6
 conda activate yourenvname
 pip install pycaret==2.0
@@ -50,17 +50,17 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 ### ML pipeline 
 Using PyCaret I implemented some steps of ML pipeline as following:
 
-* **Getting Data**: How to import data from PyCaret repository
-* **Setting up Environment**: How to setup an experiment in PyCaret and get started with building classification models
-* **Create Model**: How to create a model, perform stratified cross validation and evaluate classification metrics
-* **Tune Model**: How to automatically tune the hyper-parameters of a classification model
-* **Plot Model**: How to analyze model performance using various plots
-* **Finalize Model**: How to finalize the best model at the end of the experiment
-* **Predict Model**: How to make predictions on new / unseen data
-* **Save / Load Model**: How to save / load a model for future use
+> * **Getting Data**: How to import data from PyCaret repository
+> * **Setting up Environment**: How to setup an experiment in PyCaret and get started with building classification models
+> * **Create Model**: How to create a model, perform stratified cross validation and evaluate classification metrics
+> * **Tune Model**: How to automatically tune the hyper-parameters of a classification model
+> * **Plot Model**: How to analyze model performance using various plots
+> * **Finalize Model**: How to finalize the best model at the end of the experiment
+> * **Predict Model**: How to make predictions on new / unseen data
+> * **Save / Load Model**: How to save / load a model for future use
 
 
-### Plosts
+### Plosts and Curves 
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/1.png"
