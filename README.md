@@ -62,7 +62,7 @@ Using PyCaret I implemented some steps of ML pipeline as following:
 
 ### Plosts
 
-<p align="center">
+<p>
     <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/1.png"
         width = "250" 
         height= "250">
