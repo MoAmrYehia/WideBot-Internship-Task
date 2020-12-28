@@ -23,7 +23,12 @@ python getting-to-philosphy.py
 ```
 
 ### Output
-![Getting to Philosophy](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/0.png)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/0.png"
+        width = "250" 
+        height= "250">
+</p>
 
 ## Task 2 - Binary Classification Problem
 
@@ -56,8 +61,18 @@ Using PyCaret I implemented some steps of ML pipeline as following:
 
 
 ### Plosts
-![AUC](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/1.png)
 
-![precision-recall](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/2.png)
-![Feature](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/3.png)
-![confugin metrics](https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/4.png)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/1.png"
+        width = "250" 
+        height= "250">
+    <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/2.png"
+        width = "250" 
+        height= "250">
+      <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/3.png"
+        width = "250" 
+        height= "250">
+      <img src="https://raw.githubusercontent.com/MoAmrYehia/WideBot_Internship_Task/master/res/4.png"
+        width = "250" 
+        height= "250">
+</p>
