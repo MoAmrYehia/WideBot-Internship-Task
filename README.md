@@ -50,7 +50,7 @@ python -m ipykernel install --user --name yourenvname --display-name "display-na
 ### ML pipeline 
 Using PyCaret I implemented some steps of ML pipeline as following:
 
-> * **Getting Data**: How to import data from PyCaret repository
+> * **Getting Data**: How to import data from PyCaret repository.
 > * **Setting up Environment**: How to setup an experiment in PyCaret and get started with building classification models.
 > * **Create Model**: How to create a model, perform stratified cross validation and evaluate classification metrics.
 > * **Tune Model**: How to automatically tune the hyper-parameters of a classification model.
