@@ -57,7 +57,7 @@ Using PyCaret I implemented some steps of ML pipeline as following:
 > * **Plot Model**: How to analyze model performance using various plots
 > * **Finalize Model**: How to finalize the best model at the end of the experiment
 > * **Predict Model**: How to make predictions on new / unseen data
-> * **Save / Load Model**: How to save / load a model for future use
+> * **Save / Load Model**: How to save / load a model for future use.
 
 
 ### Plosts and Curves 
