@@ -55,7 +55,7 @@ Using PyCaret I implemented some steps of ML pipeline as following:
 > * **Create Model**: How to create a model, perform stratified cross validation and evaluate classification metrics
 > * **Tune Model**: How to automatically tune the hyper-parameters of a classification model
 > * **Plot Model**: How to analyze model performance using various plots
-> * **Finalize Model**: How to finalize the best model at the end of the experiment
+> * **Finalize Model**: How to finalize the best model at the end of the experiment.
 > * **Predict Model**: How to make predictions on new / unseen data.
 > * **Save / Load Model**: How to save / load a model for future use.
 
